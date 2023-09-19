@@ -3,11 +3,11 @@ This repo is to solve some random solidity question and submit there answers
 
 ## QUESTIONS
 
-1.Write a Solidity contract that stores a single number. Include a function to update this number.
+```  ✅ ```1. Write a Solidity contract that stores a single number. Include a function to update this number.
 
-2.Create a contract that stores an address. Include a function to update this address. 
+```  ✅ ```2. Create a contract that stores an address. Include a function to update this address. 
 
-3.Write a contract that stores a string. Include a function to update this string.  
+```  ✅ ```3. Write a contract that stores a string. Include a function to update this string.  
 
 Create a contract that stores an array of numbers. Include functions to add and remove numbers from this array.
 
