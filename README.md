@@ -9,59 +9,59 @@ This repo is to solve some random solidity question and submit there answers
 
 ```  ✅ ```3. Write a contract that stores a string. Include a function to update this string.  
 
-Create a contract that stores an array of numbers. Include functions to add and remove numbers from this array.
+4.Create a contract that stores an array of numbers. Include functions to add and remove numbers from this array.
 
-Write a contract that stores a mapping from addresses to numbers. Include functions to update this mapping.
+5.Write a contract that stores a mapping from addresses to numbers. Include functions to update this mapping.
 
-Create a contract that includes a payable function. This function should update a stored number based on the amount of Ether sent.
+6.Create a contract that includes a payable function. This function should update a stored number based on the amount of Ether sent.
 
-Write a contract that emits an event. Include a function that triggers this event.
+7.Write a contract that emits an event. Include a function that triggers this event.
 
-Create a contract that includes a modifier. Use this modifier in a function.
+8.Create a contract that includes a modifier. Use this modifier in a function.
 
-Write a contract that inherits from another contract. Include a function in the child contract that overrides a function in the parent contract.
+9.Write a contract that inherits from another contract. Include a function in the child contract that overrides a function in the parent contract.
 
-Create a contract that interacts with another contract. Include a function in the first contract that calls a function in the second contract.
+10.Create a contract that interacts with another contract. Include a function in the first contract that calls a function in the second contract.
 
-Write a contract that uses a struct to store information about a person (name, age, and address).
+11.Write a contract that uses a struct to store information about a person (name, age, and address).
 
-Create a contract that uses an enum to represent different states of a process.
+12.Create a contract that uses an enum to represent different states of a process.
 
-Write a contract that includes a constructor function.
+13.Write a contract that includes a constructor function.
 
-Create a contract that includes a fallback function.
+14.Create a contract that includes a fallback function.
 
-Write a contract that uses the now keyword to get the current timestamp.
+15.Write a contract that uses the now keyword to get the current timestamp.
 
-Create a contract that uses the msg.sender keyword to get the address of the person calling a function.
+16.Create a contract that uses the msg.sender keyword to get the address of the person calling a function.
 
-Write a contract that uses the msg.value keyword to get the amount of Ether sent with a function call.
+17.Write a contract that uses the msg.value keyword to get the amount of Ether sent with a function call.
 
-Create a contract that uses the this keyword to refer to the contract itself.
+18.Create a contract that uses the this keyword to refer to the contract itself.
 
-Write a contract that uses the new keyword to create a new contract.
+19.Write a contract that uses the new keyword to create a new contract.
 
-Create a contract that uses the delete keyword to reset a variable to its initial state.
+20.Create a contract that uses the delete keyword to reset a variable to its initial state.
 
-Write a contract that uses the assert function to check invariants.
+21.Write a contract that uses the assert function to check invariants.
 
-Create a contract that uses the require function to check inputs and conditions.
+22.Create a contract that uses the require function to check inputs and conditions.
 
-Write a contract that uses the revert function to revert state changes.
+23.Write a contract that uses the revert function to revert state changes.
 
-Create a contract that uses the keccak256 function to hash a value.
+24.Create a contract that uses the keccak256 function to hash a value.
 
-Write a contract that uses the ecrecover function to recover the address associated with a digital signature.
+25.Write a contract that uses the ecrecover function to recover the address associated with a digital signature.
 
-Create a contract that uses the selfdestruct function to destroy the contract and send its funds to an address.
+26.Create a contract that uses the selfdestruct function to destroy the contract and send its funds to an address.
 
-Write a contract that uses the block.timestamp property to get the current block timestamp.
+27.Write a contract that uses the block.timestamp property to get the current block timestamp.
 
-Create a contract that uses the block.number property to get the current block number.
+28.Create a contract that uses the block.number property to get the current block number.
 
-Write a contract that uses the block.difficulty property to get the current block difficulty.
+29.Write a contract that uses the block.difficulty property to get the current block difficulty.
 
-Create a contract that uses the block.coinbase property to get the current block miner’s address.
+30.Create a contract that uses the block.coinbase property to get the current block miner’s address.
 
 Write a contract that uses the gasleft function to get the remaining gas.
 
