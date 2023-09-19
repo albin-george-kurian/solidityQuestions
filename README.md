@@ -1,7 +1,10 @@
 # solidityQuestions
 This repo is to solve some random solidity question and submit there answers 
 
+### ```  ✅  question answered   ❌ pending ```
+
 ## QUESTIONS
+
 
 ```  ✅ ```1. Write a Solidity contract that stores a single number. Include a function to update this number.
 
