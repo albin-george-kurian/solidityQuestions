@@ -66,79 +66,79 @@ This repo is to solve some random solidity question and submit there answers
 
 30.Create a contract that uses the block.coinbase property to get the current block miner’s address.
 
-Write a contract that uses the gasleft function to get the remaining gas.
+31.Write a contract that uses the gasleft function to get the remaining gas.
 
-Create a contract that uses the tx.origin property to get the original sender of the transaction.
+32.Create a contract that uses the tx.origin property to get the original sender of the transaction.
 
-Write a contract that uses the tx.gasprice property to get the gas price of the transaction.
+33.Write a contract that uses the tx.gasprice property to get the gas price of the transaction.
 
-Create a contract that uses the abi.encode function to ABI-encode values.
+34.Create a contract that uses the abi.encode function to ABI-encode values.
 
-Write a contract that uses the abi.decode function to ABI-decode values.
+35.Write a contract that uses the abi.decode function to ABI-decode values.
 
-Create a contract that uses the abi.encodePacked function to ABI-encode values with packed encoding.
+36.Create a contract that uses the abi.encodePacked function to ABI-encode values with packed encoding.
 
-Write a contract that uses the abi.encodeWithSignature function to ABI-encode values with a function signature.
+37.Write a contract that uses the abi.encodeWithSignature function to ABI-encode values with a function signature.
 
-Create a contract that uses the address.balance property to get the balance of an address.
+38.Create a contract that uses the address.balance property to get the balance of an address.
 
-Write a contract that uses the address.transfer function to send Ether to an address.
+39.Write a contract that uses the address.transfer function to send Ether to an address.
 
-Create a contract that uses the address.call function to call a function on another contract.
+40.Create a contract that uses the address.call function to call a function on another contract.
 
-Write a contract that uses the address.delegatecall function to delegate a call to another contract.
+41.Write a contract that uses the address.delegatecall function to delegate a call to another contract.
 
-Create a contract that uses the address.staticcall function to make a read-only call to another contract.
+42.Create a contract that uses the address.staticcall function to make a read-only call to another contract.
 
-Write a contract that uses the address.payable function to convert an address to a payable address.
+43.Write a contract that uses the address.payable function to convert an address to a payable address.
 
-Create a contract that uses the bytes.length property to get the length of a bytes array
+44.Create a contract that uses the bytes.length property to get the length of a bytes array
 
-Write a contract that uses the bytes.concat function to concatenate two bytes arrays.
+45.Write a contract that uses the bytes.concat function to concatenate two bytes arrays.
 
-Create a contract that uses the bytes32.byte property to get a specific byte in a bytes32 value.
+46.Create a contract that uses the bytes32.byte property to get a specific byte in a bytes32 value.
 
-Write a contract that uses the bytes32.leftPadded function to left-pad a bytes32 value.
+47.Write a contract that uses the bytes32.leftPadded function to left-pad a bytes32 value.
 
-Create a contract that uses the bytes32.rightPadded function to right-pad a bytes32 value.
+48.Create a contract that uses the bytes32.rightPadded function to right-pad a bytes32 value.
 
-Write a contract that uses the int.min property to get the minimum value of an integer type.
+49.Write a contract that uses the int.min property to get the minimum value of an integer type.
 
-Create a contract that uses the int.max property to get the maximum value of an integer type.
+50.Create a contract that uses the int.max property to get the maximum value of an integer type.
 
-Write a contract that uses the uint.min property to get the minimum value of an unsigned integer type.
+51.Write a contract that uses the uint.min property to get the minimum value of an unsigned integer type.
 
-Create a contract that uses the uint.max property to get the maximum value of an unsigned integer type.
+52.Create a contract that uses the uint.max property to get the maximum value of an unsigned integer type.
 
-Write a contract that uses the array.push function to add an element to an array.
+53.Write a contract that uses the array.push function to add an element to an array.
 
-Create a contract that uses the array.pop function to remove an element from an array.
+54.Create a contract that uses the array.pop function to remove an element from an array.
 
-Write a contract that uses the array.length property to get the length of an array.
+55.Write a contract that uses the array.length property to get the length of an array.
 
-Create a contract that uses the array[0] syntax to access an element in an array.
+56.Create a contract that uses the array[0] syntax to access an element in an array.
 
-Write a contract that uses the mapping[key] syntax to access a value in a mapping.
+57.Write a contract that uses the mapping[key] syntax to access a value in a mapping.
 
-Create a contract that uses the for keyword to create a loop.
+58.Create a contract that uses the for keyword to create a loop.
 
-Write a contract that uses the if keyword to create a conditional statement.
+59.Write a contract that uses the if keyword to create a conditional statement.
 
-Create a contract that uses the else keyword to create an alternative branch in a conditional statement.
+60.Create a contract that uses the else keyword to create an alternative branch in a conditional statement.
 
-Write a contract that uses the while keyword to create a loop.
+61.Write a contract that uses the while keyword to create a loop.
 
-Create a contract that uses the do keyword to create a loop.
+62.Create a contract that uses the do keyword to create a loop.
 
-Write a contract that uses the break keyword to exit a loop.
+63.Write a contract that uses the break keyword to exit a loop.
 
-Create a contract that uses the continue keyword to skip to the next iteration of a loop.
+64.Create a contract that uses the continue keyword to skip to the next iteration of a loop.
 
-Write a contract that uses the return keyword to return a value from a function.
+65.Write a contract that uses the return keyword to return a value from a function.
 
-Create a contract that uses the throw keyword to throw an exception.
+66.Create a contract that uses the throw keyword to throw an exception.
 
-Write a contract that uses the try/catch syntax to handle exceptions.
+67.Write a contract that uses the try/catch syntax to handle exceptions.
 
 Create a contract that uses the import keyword to import a contract from another file.
 
