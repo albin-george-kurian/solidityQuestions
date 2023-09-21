@@ -12,15 +12,15 @@ This repo is to solve some random solidity question and submit there answers
 
 ```  ✅ ```3. Write a contract that stores a string. Include a function to update this string.  
 
-4.Create a contract that stores an array of numbers. Include functions to add and remove numbers from this array.
+```` ❌ ```4.Create a contract that stores an array of numbers. Include functions to add and remove numbers from this array.
 
 5.Write a contract that stores a mapping from addresses to numbers. Include functions to update this mapping.
 
-6.Create a contract that includes a payable function. This function should update a stored number based on the amount of Ether sent.
+```  ✅ ```6.Create a contract that includes a payable function. This function should update a stored number based on the amount of Ether sent.
 
 7.Write a contract that emits an event. Include a function that triggers this event.
 
-8.Create a contract that includes a modifier. Use this modifier in a function.
+```  ✅ ```8.Create a contract that includes a modifier. Use this modifier in a function.
 
 9.Write a contract that inherits from another contract. Include a function in the child contract that overrides a function in the parent contract.
 
