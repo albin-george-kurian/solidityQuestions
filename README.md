@@ -12,7 +12,7 @@ This repo is to solve some random solidity question and submit there answers
 
 ```  ✅ ```3. Write a contract that stores a string. Include a function to update this string.  
 
-```` ❌ ```4.Create a contract that stores an array of numbers. Include functions to add and remove numbers from this array.
+```  ❌ ```4.Create a contract that stores an array of numbers. Include functions to add and remove numbers from this array.
 
 5.Write a contract that stores a mapping from addresses to numbers. Include functions to update this mapping.
 
@@ -140,8 +140,109 @@ This repo is to solve some random solidity question and submit there answers
 
 67.Write a contract that uses the try/catch syntax to handle exceptions.
 
-Create a contract that uses the import keyword to import a contract from another file.
+68.Create a contract that uses the import keyword to import a contract from another file.
 
-Write a contract that uses the pragma solidity ^0.8.0; directive to specify the Solidity compiler version.
+69.Write a contract that uses the pragma solidity ^0.8.0; directive to specify the Solidity compiler version.
 
-Create a contract that uses the contract keyword to define a new contract.
+70.Create a contract that uses the contract keyword to define a new contract.
+
+71.Write a contract that uses a library to perform safe arithmetic operations.
+
+72.Create a contract that uses a modifier to restrict function access to the contract owner.
+
+73.Write a contract that uses an event to log the transfer of tokens.
+
+74.Create a contract that uses a mapping and a dynamic array to store and iterate over a list of structs.
+
+75.Write a contract that uses a constructor to initialize a token with a fixed supply and assign all tokens to the contract creator.
+
+76.Create a contract that uses the fallback function to accept Ether and emit an event with the sender and the amount.
+
+78.Write a contract that uses the receive function to accept Ether and emit an event with the sender and the amount.
+
+79.Create a contract that uses the selfdestruct function to destroy the contract and send its balance to the contract owner.
+
+80.Write a contract that uses the revert function to undo state changes if a condition is not met.
+
+81.Create a contract that uses the require function to validate inputs and throw an error with a custom message if the inputs are invalid.
+
+82.Write a contract that uses the assert function to check invariants and throw an error if an invariant is violated.
+
+83.Create a contract that uses the keccak256 function to hash a value and the ecrecover function to verify a digital signature.
+
+84.Write a contract that uses the block.timestamp property to implement a time-based condition.
+
+85.Create a contract that uses the block.number property to implement a block-based condition.
+
+86.Write a contract that uses the gasleft function to check the remaining gas and revert if it is too low.
+
+87.Create a contract that uses the tx.origin property to check the original sender of the transaction and revert if it is not the contract owner.
+
+88.Write a contract that uses the tx.gasprice property to check the gas price of the transaction and revert if it is too high.
+
+89.Create a contract that uses the abi.encode function to ABI-encode values and the abi.decode function to ABI-decode values.
+
+90.Write a contract that uses the address.balance property to check the balance of the contract and the address.transfer function to send Ether.
+
+91.Create a contract that uses the address.call function to call a function on another contract and handle the return value.
+
+92.Write a contract that uses the address.delegatecall function to delegate a call to another contract and handle the return value.
+
+93.Create a contract that uses the address.staticcall function to make a read-only call to another contract and handle the return value.
+
+94.Write a contract that uses the bytes.length property to check the length of a bytes array and the bytes.concat function to concatenate two bytes arrays.
+
+95.Create a contract that uses the bytes32.byte property to get a specific byte in a bytes32 value and the bytes32.leftPadded and bytes32.rightPadded functions to pad a bytes32 value.
+
+96.Write a contract that uses the int.min and int.max properties to check the range of an integer value.
+
+97.Create a contract that uses the uint.min and uint.max properties to check the range of an unsigned integer value.
+
+98.Write a contract that uses the array.push function to add an element to an array, the array.pop function to remove an element from an array, and the array.length property to get the length of an array.
+
+99.Create a contract that uses the mapping[key] syntax to access a value in a mapping and a loop to iterate over the keys.
+
+100.Write a contract that uses the for keyword to create a loop and the break keyword to exit the loop.
+
+101.Create a contract that uses the if keyword to create a conditional statement and the else keyword to create an alternative branch.
+
+102.Write a contract that uses the while keyword to create a loop and the continue keyword to skip to the next iteration.
+
+103.Create a contract that uses the do keyword to create a loop and the return keyword to return a value from a function.
+
+104.Write a contract that uses the throw keyword to throw an exception and the try/catch syntax to handle exceptions.
+
+105.Create a contract that uses the import keyword to import a contract from another file and the is keyword to inherit from it.
+
+106.Write a contract that uses the pragma solidity ^0.8.0; directive to specify the Solidity compiler version and the contract keyword to define a new contract.
+
+107.Create a contract that uses the public, private, internal, and external keywords to specify function visibility.
+
+108.Write a contract that uses the constant, pure, and view keywords to declare functions that do not modify the state.
+
+109.Create a contract that uses the payable keyword to allow a function to receive Ether and the msg.value keyword to get the amount of Ether sent.
+
+110.Write a contract that uses the abstract keyword to declare a contract that is not fully implemented and the interface keyword to declare a contract that only contains function signatures.
+
+111.Create a contract that uses the override keyword to change the behavior of an inherited function and the virtual keyword to declare a function that can be overridden.
+
+112.Write a contract that uses the super keyword to call a function in a parent contract and the this keyword to refer to the contract itself.
+
+113.Create a contract that uses the new keyword to create a new contract and the delete keyword to reset a variable to its initial state.
+
+114.Write a contract that uses the storage, memory, and calldata keywords to declare variables with different data locations.
+
+115.Create a contract that uses the using keyword to attach library functions to a certain type and the library keyword to define a reusable piece of code.
+
+116.Write a contract that uses the assembly keyword to write inline assembly code and handle low-level operations.
+
+117.Create a contract that uses the msg.sender keyword to get the address of the person calling a function and the msg.data keyword to get the data sent with the call.
+
+118.Write a contract that uses the block.coinbase property to get the current block miner’s address and the block.difficulty property to get the current block difficulty.
+
+119.Create a contract that uses the abi.encodePacked function to ABI-encode values with packed encoding and the abi.encodeWithSignature function to ABI-encode values with a function signature.
+
+120.Write a contract that uses the address.payable function to convert an address to a payable address and the address.code property to get the code at an address.
+
+121.Create a contract that uses the bytes32.toHexString function to convert a bytes32 value to a hexadecimal string and the bytes32.toUint function to convert a bytes32 value to an unsigned integer.
+
