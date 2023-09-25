@@ -12,7 +12,7 @@ This repo contains a collection of basic and intermediate Solidity coding questi
 
 ```  ✅ ```3. Write a contract that stores a string. Include a function to update this string.  
 
-```  ❌ ```4.Create a contract that stores an array of numbers. Include functions to add and remove numbers from this array.
+```  ✅ ```4.Create a contract that stores an array of numbers. Include functions to add and remove numbers from this array.
 
 ```  ✅ ```5.Write a contract that stores a mapping from addresses to numbers. Include functions to update this mapping.
 
