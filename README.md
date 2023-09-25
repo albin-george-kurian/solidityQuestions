@@ -1,5 +1,5 @@
 # solidityQuestions
-This repo is to solve some random solidity question and submit there answers 
+This repo contains a collection of basic and intermediate Solidity coding questions, culled from various AI paradigms such as ChatGPT, Bard AI, and Phind AI. The questions are designed to help you build a solid foundation in Solidity and gain the skills needed to create smart contracts and also help beginners in smart contract development to develop an basic understanding..
 
 ### ```  ✅  question answered   ❌ pending ```
 
