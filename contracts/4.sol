@@ -4,8 +4,7 @@ pragma solidity ^0.8.0;
 contract array {
     uint256[] arr;
 
-    error aunaut(); //creating custom error
-
+    error condtionfailed();
     function addNum(uint256 _num) external {
         arr.push(_num);
     }
@@ -14,25 +13,21 @@ contract array {
         return arr;
     }
 
-    function removeLast() external {
-        arr.pop();
-    }
 
-    function removeAtPos(uint256 _pos) external  {
-        if (_pos + 1 == arr.length) {
-            arr.pop();
-        } else {
-            for (uint256 i = _pos; i < arr.length; i++) {
+    function removeAtPos(uint256 _pos) external arrBounce(_pos)
+       {
+            for (uint256 i = _pos; i < arr.length-1; i++) {
                 arr[i] = arr[i + 1];
             }
+            arr.pop();
+            
+        }
+
+        modifier arrBounce(uint _pos){
+            if(_pos > arr.length) revert condtionfailed();
+            _;
         }
     }
 
-    modifier isRight(uint256 _pos) {
-        if (_pos+1 > arr.length) {
-            revert aunaut();
-            // custom error
-        }
-        _;
-    }
-}
+    
+

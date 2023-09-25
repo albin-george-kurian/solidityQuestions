@@ -14,7 +14,7 @@ This repo contains a collection of basic and intermediate Solidity coding questi
 
 ```  ❌ ```4.Create a contract that stores an array of numbers. Include functions to add and remove numbers from this array.
 
-5.Write a contract that stores a mapping from addresses to numbers. Include functions to update this mapping.
+```  ✅ ```5.Write a contract that stores a mapping from addresses to numbers. Include functions to update this mapping.
 
 ```  ✅ ```6.Create a contract that includes a payable function. This function should update a stored number based on the amount of Ether sent.
 
