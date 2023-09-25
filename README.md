@@ -22,7 +22,7 @@ This repo contains a collection of basic and intermediate Solidity coding questi
 
 ```  ✅ ```8.Create a contract that includes a modifier. Use this modifier in a function.
 
-9.Write a contract that inherits from another contract. Include a function in the child contract that overrides a function in the parent contract.
+```  ✅ ```9.Write a contract that inherits from another contract. Include a function in the child contract that overrides a function in the parent contract.
 
 10.Create a contract that interacts with another contract. Include a function in the first contract that calls a function in the second contract.
 
