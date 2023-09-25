@@ -1,4 +1,4 @@
-// 4.Create a contract that stores an array of numbers. Include functions to add and remove numbers from this array.
+// Create a contract that stores an array of numbers. Include functions to add and remove numbers from this array.
 // SPDX-License-Identifier: SEE LICENSE IN LICENSE
 pragma solidity ^0.8.0;
 contract array {

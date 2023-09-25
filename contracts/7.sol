@@ -1,6 +1,7 @@
+//Write a contract that emits an event. Include a function that triggers this event.
+
 // SPDX-License-Identifier: SEE LICENSE IN LICENSE
 pragma solidity ^0.8.0;
-//Write a contract that emits an event. Include a function that triggers this event.
 
 
 contract eventEmit{

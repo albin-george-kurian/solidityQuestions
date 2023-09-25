@@ -1,4 +1,4 @@
-// 3.Write a contract that stores a string. Include a function to update this string.  
+// Write a contract that stores a string. Include a function to update this string.  
 // SPDX-License-Identifier: SEE LICENSE IN LICENSE
 pragma solidity ^0.8.0;
 
