@@ -18,7 +18,7 @@ This repo contains a collection of basic and intermediate Solidity coding questi
 
 ```  ✅ ```6.Create a contract that includes a payable function. This function should update a stored number based on the amount of Ether sent.
 
-7.Write a contract that emits an event. Include a function that triggers this event.
+```  ✅ ```7.Write a contract that emits an event. Include a function that triggers this event.
 
 ```  ✅ ```8.Create a contract that includes a modifier. Use this modifier in a function.
 
