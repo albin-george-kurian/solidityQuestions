@@ -38,7 +38,7 @@ This repo contains a collection of basic and intermediate Solidity coding questi
 
 ```  ✅ ```16.Create a contract that uses the msg.sender keyword to get the address of the person calling a function.
 
-17.Write a contract that uses the msg.value keyword to get the amount of Ether sent with a function call.
+```  ✅ ```17.Write a contract that uses the msg.value keyword to get the amount of Ether sent with a function call.
 
 18.Create a contract that uses the this keyword to refer to the contract itself.
 
