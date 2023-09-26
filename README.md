@@ -26,7 +26,7 @@ This repo contains a collection of basic and intermediate Solidity coding questi
 
 10.Create a contract that interacts with another contract. Include a function in the first contract that calls a function in the second contract.
 
-11.Write a contract that uses a struct to store information about a person (name, age, and address).
+```  ✅ ```11.Write a contract that uses a struct to store information about a person (name, age, and address).
 
 12.Create a contract that uses an enum to represent different states of a process.
 
