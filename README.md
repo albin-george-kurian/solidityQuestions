@@ -58,9 +58,9 @@ This repo contains a collection of basic and intermediate Solidity coding questi
 
 26.Create a contract that uses the selfdestruct function to destroy the contract and send its funds to an address.
 
-27.Write a contract that uses the block.timestamp property to get the current block timestamp.
+```  ✅ ```27.Write a contract that uses the block.timestamp property to get the current block timestamp.
 
-28.Create a contract that uses the block.number property to get the current block number.
+```  ✅ ```28.Create a contract that uses the block.number property to get the current block number.
 
 29.Write a contract that uses the block.difficulty property to get the current block difficulty.
 
