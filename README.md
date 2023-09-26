@@ -30,13 +30,13 @@ This repo contains a collection of basic and intermediate Solidity coding questi
 
 12.Create a contract that uses an enum to represent different states of a process.
 
-13.Write a contract that includes a constructor function.
+```  ✅ ```13.Write a contract that includes a constructor function.
 
 14.Create a contract that includes a fallback function.
 
 15.Write a contract that uses the now keyword to get the current timestamp.
 
-16.Create a contract that uses the msg.sender keyword to get the address of the person calling a function.
+```  ✅ ```16.Create a contract that uses the msg.sender keyword to get the address of the person calling a function.
 
 17.Write a contract that uses the msg.value keyword to get the amount of Ether sent with a function call.
 
