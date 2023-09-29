@@ -142,9 +142,9 @@ This repo contains a collection of basic and intermediate Solidity coding questi
 
 68.Create a contract that uses the import keyword to import a contract from another file.
 
-69.Write a contract that uses the pragma solidity ^0.8.0; directive to specify the Solidity compiler version.
+```  ✅ ```69.Write a contract that uses the pragma solidity ^0.8.0; directive to specify the Solidity compiler version.
 
-70.Create a contract that uses the contract keyword to define a new contract.
+```  ✅ ```70.Create a contract that uses the contract keyword to define a new contract.
 
 71.Write a contract that uses a library to perform safe arithmetic operations.
 
@@ -212,7 +212,7 @@ This repo contains a collection of basic and intermediate Solidity coding questi
 
 104.Write a contract that uses the throw keyword to throw an exception and the try/catch syntax to handle exceptions.
 
-105.Create a contract that uses the import keyword to import a contract from another file and the is keyword to inherit from it.
+```  ✅ ```105.Create a contract that uses the import keyword to import a contract from another file and the is keyword to inherit from it.
 
 106.Write a contract that uses the pragma solidity ^0.8.0; directive to specify the Solidity compiler version and the contract keyword to define a new contract.
 
