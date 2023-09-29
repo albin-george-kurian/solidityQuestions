@@ -126,7 +126,7 @@ This repo contains a collection of basic and intermediate Solidity coding questi
 
 ```  ✅ ```60.Create a contract that uses the else keyword to create an alternative branch in a conditional statement.
 
-61.Write a contract that uses the while keyword to create a loop.
+```  ✅ ```61.Write a contract that uses the while keyword to create a loop.
 
 62.Create a contract that uses the do keyword to create a loop.
 
