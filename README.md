@@ -120,9 +120,9 @@ This repo contains a collection of basic and intermediate Solidity coding questi
 
 57.Write a contract that uses the mapping[key] syntax to access a value in a mapping.
 
-58.Create a contract that uses the for keyword to create a loop.
+```  ✅ ```58.Create a contract that uses the for keyword to create a loop.
 
-59.Write a contract that uses the if keyword to create a conditional statement.
+```  ✅ ```59.Write a contract that uses the if keyword to create a conditional statement.
 
 60.Create a contract that uses the else keyword to create an alternative branch in a conditional statement.
 
