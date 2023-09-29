@@ -8,8 +8,6 @@ bytes public ouput;
   function isEmpty()external returns (bytes memory){
     if(name.length == 0){
       ouput = "length is zero";
-    }else{
-      ouput = "length is not zero";
     }
 
     return ouput;
