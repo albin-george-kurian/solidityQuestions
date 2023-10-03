@@ -132,7 +132,7 @@ This repo contains a collection of basic and intermediate Solidity coding questi
 
 ```  ✅ ```63.Write a contract that uses the break keyword to exit a loop.
 
-64.Create a contract that uses the continue keyword to skip to the next iteration of a loop.
+```  ✅ ```64.Create a contract that uses the continue keyword to skip to the next iteration of a loop.
 
 ```  ✅ ```65.Write a contract that uses the return keyword to return a value from a function.
 
