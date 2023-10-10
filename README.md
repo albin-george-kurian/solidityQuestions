@@ -216,9 +216,9 @@ This repo contains a collection of basic and intermediate Solidity coding questi
 
 106.Write a contract that uses the pragma solidity ^0.8.0; directive to specify the Solidity compiler version and the contract keyword to define a new contract.
 
-107.Create a contract that uses the public, private, internal, and external keywords to specify function visibility.
+```  ✅ ```107.Create a contract that uses the public, private, internal, and external keywords to specify function visibility.
 
-108.Write a contract that uses the constant, pure, and view keywords to declare functions that do not modify the state.
+```  ✅ ```108.Write a contract that uses the constant, pure, and view keywords to declare functions that do not modify the state.
 
 109.Create a contract that uses the payable keyword to allow a function to receive Ether and the msg.value keyword to get the amount of Ether sent.
 
