@@ -202,13 +202,13 @@ This repo contains a collection of basic and intermediate Solidity coding questi
 
 99.Create a contract that uses the mapping[key] syntax to access a value in a mapping and a loop to iterate over the keys.
 
-100.Write a contract that uses the for keyword to create a loop and the break keyword to exit the loop.
+  100.Write a contract that uses the for keyword to create a loop and the break keyword to exit the loop.
 
 101.Create a contract that uses the if keyword to create a conditional statement and the else keyword to create an alternative branch.
 
 102.Write a contract that uses the while keyword to create a loop and the continue keyword to skip to the next iteration.
 
-103.Create a contract that uses the do keyword to create a loop and the return keyword to return a value from a function.
+```  ✅ ```103.Create a contract that uses the do keyword to create a loop and the return keyword to return a value from a function.
 
 104.Write a contract that uses the throw keyword to throw an exception and the try/catch syntax to handle exceptions.
 
